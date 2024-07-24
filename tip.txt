@@ -1,0 +1,2 @@
+yo quiero un historial para mientra se busque en el search de el navbarleft
+se quede guardado ese historial que buscaste
